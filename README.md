@@ -1,6 +1,7 @@
 # hello-world
-Helou!
-
-I'm going to be a front end dev but I have to work hard to gain as much experience as it is possible for me! :D
-
-I love pugs pugs pugs
+ _    _      _ _         _   _                _
+| |  | |    | | |       | | | |              | |
+| |__| | ___| | | ___   | |_| |__   ___ _ __ | | ___
+|  __  |/ _ \ | |/ _ \  | __| '_ \ / _ \ '__|| |/ _ \
+| |  | |  __/ | | (_) | | |_| | | |  __/ |   | |  __/
+|_|  |_|\___|_|_|\___/   \__|_| |_|\___|_|   |_|\___|
